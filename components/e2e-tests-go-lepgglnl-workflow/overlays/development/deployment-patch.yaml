@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/e2e-tests-go-lepgglnl-workflow:a8a2b0c60193e6aa0d95cdda6070f4fe3d4a416f@sha256:3f56140db44c16e3a9769c33c23c41a680f48958c0588b2f7d941c4ced01384e
+        - image: quay.io/rhtap_qe/e2e-tests-go-lepgglnl-workflow:d279dd49a5288235f6d4bac565715eb87cea9a39@sha256:80677ea6a6836ed301ad4904047df6f10c70cd01ecfb514bf482e98ffc5604a0
           name: container-image
